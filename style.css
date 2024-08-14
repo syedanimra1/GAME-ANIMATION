@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+body{
+    background-image: url('./images/bg3.jpg.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div{
+      height: 100vh;
+    width: 100vw;
+}
+.character1{
+    position:absolute;
+    bottom: 40px;
+    left: 40px;
+}
+.character2{
+    position:absolute;
+    bottom: 40px;
+    right: 40px;
+}
